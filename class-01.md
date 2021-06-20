@@ -13,20 +13,22 @@
 ```
 
 ## EXTRA MARKUP
+
 + Specifying different versions of HTML
 + Identifying and grouping elements
 + Comments, meta information and iframes
-  
-  1. **ID** Attribute Every HTML element can carry the id attribute
+
+  1. **ID** Attribute Every HTML element can carry the id attribute.
   2. Comments in HTML
   3. **Class** Attribute Every HTML element can carry a class attribute
   4. Block Elements >> ```<h1>, <p>, <ul>, and <li>```
   5. Inline Elements >>  ```<a>, <b>, <em>, and <img>```
-  6. Grouping Text & Elements in a Block >> ``` <div></div>```
+  6. Grouping Text & Elements in a Block >>```<div></div>```
   7. Grouping Text & Elements Inline >> ```<span>```
-  8. Information About Your Pages >> The``` <meta>``` element lives inside the ```<head>```
+  8. Information About Your Pages >> The```<meta>``` element lives inside the ```<head>```
   9. Escape Characters >>
-> * To write a left angled bracket, you can use either < or <
+>
+> + To write a left angled bracket, you can use either < or <
 To write an ampersand (&), you can use either & or &
 
 ## HTML5 Layout
@@ -43,9 +45,10 @@ To write an ampersand (&), you can use either & or &
 ```<summary>```: It is used to define a heading for the ```<details>``` element
 
 ## 7 steps of the design process
+
 1. **Define the problem**
 ![Define_the_problem](https://epiccollaboration.com/system/files/493917351.jpg)
-2. **Conduct research** 
+2. **Conduct research**
 ![Conduct_research](https://blogs.canterbury.ac.uk/studentnews/wp-content/uploads/sites/425/2020/04/shutterstock_251529133.jpg)
 3. **Brainstorm and conceptualize**
 ![Brainstorm_and_conceptualize](https://c8.alamy.com/comp/H90KKW/conceptualize-concept-innovation-ideas-concept-H90KKW.jpg)
