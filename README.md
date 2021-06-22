@@ -3,3 +3,4 @@
 |**Name of labe**|**Link**|
 |-------------|-----|
 |**class01**|[class01](class-01.md)|
+|**class02**|[class01](class-02.md)|
