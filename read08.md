@@ -6,13 +6,13 @@
 
 ### Header
 
-**A **_header_** is usually located at the top of the website (or right below a top navigation menu). It often contains a logo or the website name**
+**A _header_ is usually located at the top of the website (or right below a top navigation menu). It often contains a logo or the website name**
 
 ![Header](https://i.stack.imgur.com/dVeVF.png)
 
 ### Navigation Bar
 
-**A **_navigation_** bar contains a list of links to help visitors navigating through your website**
+**A _navigation_ bar contains a list of links to help visitors navigating through your website**
 
 ![navbar](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYFLCvOGISPKwaSZNEPPYzy0CYJ11wZdjfg&usqp=CAU)
  
