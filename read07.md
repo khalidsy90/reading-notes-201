@@ -7,6 +7,7 @@
 *  The elements under ```<td>``` are regular and left aligned by default
 * Table heading can be defined using ```<th>``` tag.
 * There are two attributes called cellpadding and cellspacing which you will use to adjust the white space in your table cells.
+
 ```html
  <table border = "1" cellpadding = "5" cellspacing = "5">
  ```
