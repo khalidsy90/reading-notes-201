@@ -128,6 +128,8 @@ element.addEventListener(event, listener, useCapture);
 Parameters: 
  
 
+ 
+
 event : event can be any valid JavaScript event.Events are used without “on” prefix like use “click” instead of “onclick” or “mousedown” instead of “onmousedown”.
 listener(handler function) : It can be a JavaScript function which respond to the event occur.
 useCapture: It is an optional parameter used to control event propagation. A boolean value is passed where “true” denotes capturing phase and “false” denotes the bubbling phase.
