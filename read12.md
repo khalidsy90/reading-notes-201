@@ -118,4 +118,5 @@ line 23:
 ```callback``` of the ```ticks``` of the axes is called every time that a tick is rendered. The ```value``` variable is the default value displayed. When we override this callback, we can change the text which is displayed on the axis. Here, we call our ```float2dollar``` function
 
 We can already see the changes:
+
 ![](https://miro.medium.com/max/854/1*7YTYwXJjAJ86gcNUIpvB-g.png)
